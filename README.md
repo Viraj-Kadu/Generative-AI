@@ -6,8 +6,8 @@ Prerequisites: Essential to understand machine learning and deep learning.
 Linear algebra, calculus, probability, statistics.
 Learn Python and libraries like NumPy, Pandas, and Matplotlib.
 
-Project 1: Implement basic Python programs to practice handling matrices, plotting data, and solving basic calculus problems.
-Project 2: Write Python scripts using Pandas to perform data manipulation tasks like merging datasets, handling missing values, and calculating statistics.
+Project 1: Implement basic Python programs to practice handling matrices, plotting data, and solving basic calculus problems.D
+Project 2: Write Python scripts using Pandas to perform data manipulation tasks like merging datasets, handling missing values, and calculating statistics.D
 
 ### Step 1.2: Introduction to Machine Learning
 
@@ -15,8 +15,8 @@ Prerequisites: Basic math, programming.
 Understand core ML concepts (supervised/unsupervised learning, overfitting).
 Implement simple ML models (linear regression, decision trees).
 
-Project 1: Build a linear regression model from scratch to predict house prices using a dataset like the Boston Housing dataset.
-Project 2: Implement a decision tree classifier to predict species of flowers using the Iris dataset.
+Project 1: Build a linear regression model from scratch to predict house prices using a dataset like the Boston Housing dataset.D
+Project 2: Implement a decision tree classifier to predict species of flowers using the Iris dataset.D
 
 ### Step 1.3: Data Handling & Preprocessing
 
